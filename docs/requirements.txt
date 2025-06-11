@@ -4,3 +4,5 @@ nbsphinx==0.8.3
 matplotlib==3.3.3
 jinja2==2.11.3
 m2r2==0.2.7
+jupyter-core>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
